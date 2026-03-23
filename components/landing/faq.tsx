@@ -9,11 +9,6 @@ import {
 
 const faqs = [
   {
-    question: "¿Qué es una auditoría regulatoria SSPD?",
-    answer:
-      "Es una revisión exhaustiva del cumplimiento normativo CREG en facturación, consumo y calidad del servicio de empresas de servicios públicos. Verificamos que las utilities cumplan con la regulación vigente y ayudamos a resolver inconsistencias.",
-  },
-  {
     question: "¿Qué tipos de PQR manejan?",
     answer:
       "Gestionamos Peticiones, Quejas, Reclamos y Recursos ante empresas de servicios públicos domiciliarios (energía, gas, agua), entidades de tránsito, y organismos reguladores como SSPD, CREG, SFC y SIC.",
